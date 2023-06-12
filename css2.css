@@ -1,0 +1,44 @@
+.corner-image1 {
+    position: absolute;
+    top: 0;
+    left: 20px;
+}
+.image-with-text img {
+    float: left; /* Alinea la imagen a la izquierda */
+    margin-right: 10px; /* Ajusta el espacio entre la imagen y el texto */
+}
+.p1{
+    color: white;
+    text-align: center;
+    font-size: 35px;
+}
+.p11{
+    color: white;
+    text-align: left;
+    font-size: 35px;
+}
+.p12{
+    color: white;
+    text-align: left;
+    font-size: 35px;
+}
+.corner-image2 {
+    position: absolute;
+    left: 40px;
+}
+.play-box {
+    background-color: red;
+    color: white;
+    width: 100px;
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+}
+.play-box2 {
+    background-color: rgb(233, 227, 227);
+    color: white;
+    width: 100px;
+    height: 80px;
+    text-align: center;
+    line-height: 80px;
+}
